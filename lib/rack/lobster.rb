@@ -45,7 +45,6 @@ module Rack
 
       res = Response.new
       res.write "<!doctype html><html><head><title>This server is epic</title><style>body{font-size:2em;}</style></head><body>"
-      res.write "<title>Lobstericious!</title>"
       res.write "<pre>"
       res.write lobster
       res.write "</pre>"
