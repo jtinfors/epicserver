@@ -16,6 +16,4 @@
 ## Background
 This tiny rack-based app was created as an expirement to see if it was possible to buy a domain, create a tiny app and deploy it. All over 3G on an airport while waiting to board.
 
-It was. 
-
-It took ~30 minutes or so.
+It was.  It took ~30 minutes or so. The result can be seen over there => [epicserver](http://epicserver.se/)
